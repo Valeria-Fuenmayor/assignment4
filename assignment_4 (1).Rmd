@@ -61,6 +61,8 @@ treat
 
 **Designated place**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
 
+As far as I can notice, our results align. We both have found the mean, median, min, max and sd for the variables growth and rgdp60 for both groups of countries - with revolutions and without revolutions. 
+
 
 ### Part 3: Make a table summarizing reressions using modelsummary and kable
 
