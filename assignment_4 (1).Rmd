@@ -62,6 +62,7 @@ treat
 **Designated place**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
 
 As far as I can notice, we have the same results. What we have done is calculated the mean, median, sd, min, and max for the variables growth and rgdp60 for two groups of the countries listed in the dataset GrowthSW. 
+As far as I can notice, we have the same results. What we have done is calculated the mean, median, sd, min, and max for the variables growth and rgdp60 for two groups of the countries listed in the dataset GrowthSW. 
 
 ### Part 3: Make a table summarizing reressions using modelsummary and kable
 
